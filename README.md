@@ -174,7 +174,8 @@ Estas categorías presentaron:
 
 📬 Contacto
 
-Si deseas más detalles o revisar el código fuente, puedes explorar las carpetas del repositorio o contactarme por estos medios:
+Si deseas conocer más detalles sobre el proyecto o revisar la implementación completa, puedes contactarme por los siguientes medios:
+
 - Correo: franco.telenta@gmail.com
 - LinkedIn: linkedin.com/in/franco-telenta-chavez.
 
@@ -183,16 +184,16 @@ Si deseas más detalles o revisar el código fuente, puedes explorar las carpeta
 
 
 <details>
-<summary>🔒 <b>Ver Licencia de Propiedad Intelectual y Derechos de Autor (© 2025)</b></summary>
+<summary>🔒 <b>Propiedad intelectual (© 2026)</b></summary>
 <br>
 
-Este proyecto, que incluye código fuente, scripts de bases de datos, lógica de simulación, arquitecturas ETL (SSIS), reportes de Power BI y documentación asociada, ha sido desarrollado de forma independiente por el autor como portafolio profesional y demostración de competencias técnicas en Ingeniería de Datos y Analítica de Negocios.
+Este proyecto ha sido desarrollado de forma independiente como parte de mi portafolio profesional y tiene como objetivo demostrar competencias en Ingeniería de Datos, ETL, Business Intelligence y Analítica de Negocios.
 
-<b>1. PROHIBICIÓN DE COPIA Y DISTRIBUCIÓN:</b> Queda estrictamente prohibida la copia, reproducción, distribución, modificación, reventa o uso total o parcial de este material para fines comerciales, laborales, educativos o presentaciones públicas ajenas al autor sin su consentimiento explícito y por escrito.
+La versión publicada en este repositorio ha sido adaptada y simplificada para fines de demostración. Algunos componentes de la implementación original, incluyendo determinadas reglas de generación de datos, transformaciones, validaciones y lógica ETL, no se encuentran publicados en su totalidad.
 
-<b>2. FINES DE EVALUACIÓN:</b> Este repositorio se expone públicamente única y exclusivamente con fines de evaluación profesional (reclutadores, gerentes de contratación y profesionales de la industria) para validar las capacidades técnicas y de resolución de problemas del autor.
+El contenido de este repositorio está destinado principalmente a la evaluación profesional y no se concede autorización para copiar, redistribuir o reutilizar el proyecto completo como propio.
 
-El registro histórico de contribuciones (commits) de GitHub sirve como prueba legal y trazable de la fecha de creación y autoría original de este proyecto ante cualquier intento de plagio comercial o personal.
+Si deseas revisar la implementación original o conocer detalles adicionales de la solución, puedes contactarme directamente.
 
 </details>
 
