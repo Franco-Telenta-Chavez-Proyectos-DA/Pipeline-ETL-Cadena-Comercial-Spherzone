@@ -59,7 +59,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 #
 
-⚙️ Funcionalidades del Pipeline
+**⚙️ Funcionalidades del Pipeline**
 
 1️⃣ Generación automática de ventas (Python)
 
@@ -103,7 +103,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 ----
 
-##📊 Análisis de Negocio — Ticket Promedio
+## 📊 Análisis de Negocio — Ticket Promedio
 
 Tras procesar el Data Warehouse, se detectó una anomalía significativa:
 Octubre 2024 mostró el Ticket Promedio más bajo de los últimos 10 años.
