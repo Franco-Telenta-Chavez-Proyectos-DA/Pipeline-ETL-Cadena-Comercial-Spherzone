@@ -55,6 +55,9 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 - Dashboard en Power BI
 
+#
+**🔧 Pipeline completo**
+
 <img width="1520" height="802" alt="arquitectura_pipeline" src="https://github.com/user-attachments/assets/6f253565-1234-45f1-9c41-4395e2b21d57" />
 
 ----
