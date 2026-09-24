@@ -176,8 +176,8 @@ Estas categorías presentaron:
 
 Si deseas conocer más detalles sobre el proyecto o revisar la implementación completa, puedes contactarme por los siguientes medios:
 
-- Correo: franco.telenta@gmail.com
-- LinkedIn: linkedin.com/in/franco-telenta-chavez.
+- **Correo:** [franco.telenta@gmail.com](mailto:franco.telenta@gmail.com)
+- **LinkedIn:** [linkedin.com/in/franco-telenta-chavez](https://linkedin.com/in/franco-telenta-chavez)
 
 ----
 
