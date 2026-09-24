@@ -57,7 +57,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 <img width="1520" height="802" alt="arquitectura_pipeline" src="https://github.com/user-attachments/assets/6f253565-1234-45f1-9c41-4395e2b21d57" />
 
-----
+#
 
 ⚙️ Funcionalidades del Pipeline
 
@@ -103,7 +103,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 ----
 
-📊 Dashboard Analítico — Ticket Promedio
+##📊 Análisis de Negocio — Ticket Promedio
 
 Tras procesar el Data Warehouse, se detectó una anomalía significativa:
 Octubre 2024 mostró el Ticket Promedio más bajo de los últimos 10 años.
@@ -127,7 +127,7 @@ La investigación se centró en explicar el origen de esta caída mediante:
 
 
 
-## Panel de Visualización
+## 📈 Dashboard Analítico
 **📌 Vista principal (Storytelling General)**
 
 <img width="1856" height="1044" alt="dashboard_storytelling_analisisGeneral" src="https://github.com/user-attachments/assets/8c199656-0ded-4805-b26c-7900db4be526" />
