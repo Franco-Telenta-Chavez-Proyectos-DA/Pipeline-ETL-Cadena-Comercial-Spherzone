@@ -55,7 +55,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 - Dashboard en Power BI
 
-<br> <img width="1520" height="802" alt="arquitectura_proceso" src="https://github.com/user-attachments/assets/ad041752-677b-4f86-9925-c37355d0fb3b" />
+<img width="1520" height="802" alt="arquitectura_pipeline" src="https://github.com/user-attachments/assets/6f253565-1234-45f1-9c41-4395e2b21d57" />
 
 ----
 
@@ -122,23 +122,28 @@ La investigación se centró en explicar el origen de esta caída mediante:
 ----
 
 ## ❄️Modelo Snowflake en Power BI
-<img width="1821" height="1080" alt="modelo_datos" src="https://github.com/user-attachments/assets/c9329891-8e10-4dca-a24b-7bd198727f47" />
+
+<img width="1821" height="1080" alt="modelo_snowflake" src="https://github.com/user-attachments/assets/9a501029-b1e4-4d5b-a63d-6568c57a4fa4" />
+
 
 
 ## Panel de Visualización
 **📌 Vista principal (Storytelling General)**
- 
-<img width="1856" height="1044" alt="dashboard_pestaña_principal" src="https://github.com/user-attachments/assets/5c18794b-bcc8-4ba1-bed2-4feddf53ab36" />
+
+<img width="1856" height="1044" alt="dashboard_storytelling_analisisGeneral" src="https://github.com/user-attachments/assets/8c199656-0ded-4805-b26c-7900db4be526" />
+
 
 #
 **📌 Origen de la caída — Vista 1**
  
-<img width="1853" height="1037" alt="dashboard_pestaña_caidaTicket_N°1" src="https://github.com/user-attachments/assets/9428bd07-e574-4c1b-921e-5a40dd514b83" />
+<img width="1853" height="1037" alt="dashboard_storytelling_caidaTicket_N°1" src="https://github.com/user-attachments/assets/9452aead-b0cf-4623-b5be-5c7b6f8bb78c" />
+
 
 #
 **📌 Origen de la caída — Vista 2**
  
-<img width="1858" height="1041" alt="dashboard_pestaña_caidaTicket_N°2" src="https://github.com/user-attachments/assets/d983da86-e7b6-473a-8b65-7537ae3c3b5c" />
+<img width="1858" height="1041" alt="dashboard_storytelling_caidaTicket_N°2" src="https://github.com/user-attachments/assets/46c7ff2d-812b-4549-bedc-6f2d0e37392f" />
+
 
 ----
 
