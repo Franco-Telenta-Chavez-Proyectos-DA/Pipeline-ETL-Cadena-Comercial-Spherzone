@@ -144,9 +144,20 @@ A continuación se muestra la el diagrama en Visual Studio señalando cada una d
 * Migración del ETL a Azure Data Factory o Prefect.
 * Implementar pruebas unitarias para transformación de datos.
 
----
+----
 
-# ✨ Autor
 
-Desarrollado por **Franco Telenta Chavez**, Bach. en Ingeniería Industrial especializado en análisis de datos y automatización ETL.
 
+<details>
+<summary>🔒 <b>Ver Licencia de Propiedad Intelectual y Derechos de Autor (© 2025)</b></summary>
+<br>
+
+Este proyecto, que incluye código fuente, scripts de bases de datos, lógica de simulación, arquitecturas ETL (SSIS), reportes de Power BI y documentación asociada, ha sido desarrollado de forma independiente por el autor como portafolio profesional y demostración de competencias técnicas en Ingeniería de Datos y Analítica de Negocios.
+
+<b>1. PROHIBICIÓN DE COPIA Y DISTRIBUCIÓN:</b> Queda estrictamente prohibida la copia, reproducción, distribución, modificación, reventa o uso total o parcial de este material para fines comerciales, laborales, educativos o presentaciones públicas ajenas al autor sin su consentimiento explícito y por escrito.
+
+<b>2. FINES DE EVALUACIÓN:</b> Este repositorio se expone públicamente única y exclusivamente con fines de evaluación profesional (reclutadores, gerentes de contratación y profesionales de la industria) para validar las capacidades técnicas y de resolución de problemas del autor.
+
+El registro histórico de contribuciones (commits) de GitHub sirve como prueba legal y trazable de la fecha de creación y autoría original de este proyecto ante cualquier intento de plagio comercial o personal.
+
+</details>
