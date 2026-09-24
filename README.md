@@ -41,7 +41,7 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 
 ----
 
-**🏗 Arquitectura del Pipeline**
+## 🏗 Arquitectura del Pipeline
 
 - Generación de datos (Python → SQL Server Source)
 
@@ -54,9 +54,6 @@ El flujo está diseñado para ejecutarse de forma automática, auditada y escala
 - Procesos auxiliares (Ubigeo PDF → Tabla → Power Query)
 
 - Dashboard en Power BI
-
-#
-## 🔧 Data Pipeline de la Cadena Comercial Spherzone **
 
 <img width="1520" height="802" alt="arquitectura_pipeline" src="https://github.com/user-attachments/assets/6f253565-1234-45f1-9c41-4395e2b21d57" />
 
