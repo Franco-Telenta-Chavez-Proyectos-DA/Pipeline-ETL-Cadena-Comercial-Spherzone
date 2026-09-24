@@ -2,6 +2,20 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
+
+def eda_preliminar(df):
+    print("Dimensiones:", df.shape)
+
+    print("\nInformación general:")
+    df.info()
+
+    print("\nValores nulos:")
+    print(df.isna().sum())
+
+    print("\nFilas duplicadas:")
+    print(df.duplicated().sum())
+    
+
 def graficar_categoricas(df):
     columnas = df.select_dtypes(include=["object", "category"]).columns
 
@@ -30,3 +44,10 @@ def graficar_numericas(df):
 
         plt.tight_layout()
         plt.show()
+
+
+eda_preliminar(df_VentasCabecera)
+
+graficar_categoricas(df_VentasCabecera)
+
+graficar_numericas(df_VentasCabecera)
