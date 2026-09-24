@@ -9,7 +9,7 @@ El proyecto sigue una arquitectura Source → Staging → Data Warehouse y concl
 
 Este proyecto implementa un pipeline de datos de punta a punta:
 
-✔ Generación automática de ventas simuladas con Python
+✔ Modelo de simulación de transacciones de ventas en Python, basado en patrones históricos, crecimiento y variabilidad observada
 
 ✔ Ingesta, limpieza, validación y transformación en SSIS
 
